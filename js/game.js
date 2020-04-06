@@ -22,10 +22,6 @@
     // control movement through keyboard
     bindKey();
 
-    // what happens when snake meets food 
-
-
-
   };
 
   // control movement through keyboard
